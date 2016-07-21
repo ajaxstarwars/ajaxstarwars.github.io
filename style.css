@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+}
+.container {
+    width: 70%;
+    height: 50%;
+    margin:  50px auto;
+    border: 1px solid #FF4081;
+    padding: 50px;
+    background-color: #03A9F4;
+}
+h1, .img, .page{
+    text-align: center;
+    padding: 25px;
+}
+#prev, #next{
+    background: transparent;
+    border: 1px solid #FF4081;
+}
+ul{
+    list-style: none;
+}
